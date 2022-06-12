@@ -29,7 +29,7 @@
 
 立即学习：
 
-- [ ] eof是什么
+- [x] eof是什么
 - [ ] 内联汇编
 - [ ] x86 riscv mips总结
 - [ ] global_asm
@@ -57,4 +57,5 @@
 - [x] 上网限制与翻墙原理
 - [ ] gdb调试动态链接器
 - [x] linuxbash
+- [ ] rust宏
 
