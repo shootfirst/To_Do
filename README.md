@@ -39,22 +39,22 @@
 - [ ] shadowsocks源码分析
 - [ ] linux配置网络文件系统
 - [ ] docker
-- [ ] git
+- [x] git
 - [ ] cmake 
-- [ ] makefile
-- [ ] linux网络命令
+- [x] makefile
+- [x] linux网络命令
 - [ ] linux iptable配置
 - [ ] linux van
-- [ ] linux包管理器
-- [ ] vim
-- [ ] shell
+- [x] linux包管理器
+- [x] vim
+- [x] shell
 - [ ] gdb
 - [ ] rustsbi
 - [ ] bootloader
 - [ ] bios
 - [ ] 基于qemu-riscv从0构建linux
 - [ ] cargo
-- [ ] 上网限制与翻墙原理
+- [x] 上网限制与翻墙原理
 - [ ] gdb调试动态链接器
-- [ ] linuxbash
+- [x] linuxbash
 
