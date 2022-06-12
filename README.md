@@ -32,7 +32,7 @@
 - [x] eof是什么
 - [ ] 内联汇编
 - [ ] x86 riscv mips总结
-- [ ] global_asm
+- [x] global_asm
 - [ ] qemu教程
 - [ ] riscv gcc工具链
 - [ ] python写脚本
