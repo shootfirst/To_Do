@@ -53,7 +53,7 @@
 - [ ] bootloader
 - [ ] bios
 - [ ] 基于qemu-riscv从0构建linux
-- [ ] cargo
+- [x] cargo
 - [x] 上网限制与翻墙原理
 - [ ] gdb调试动态链接器
 - [x] linuxbash
