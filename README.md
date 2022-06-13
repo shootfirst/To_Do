@@ -30,8 +30,8 @@
 立即学习：
 
 - [x] eof是什么
-- [ ] 内联汇编
-- [ ] x86 riscv mips总结
+- [x] 内联汇编
+- [x] x86 riscv mips arm总结
 - [x] global_asm
 - [ ] qemu教程
 - [ ] riscv gcc工具链
