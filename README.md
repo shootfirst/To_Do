@@ -12,8 +12,9 @@
 - [ ] ucb cs61a
 - [ ] ucb cs61b
 - [ ] ucb cs61c
-- [ ] nju pa（硬核！！！）
-- [ ] thu rcore
+- [ ] nju pa
+- [x] hitsz 计网
+- [ ] hitsz 计体
 
 经典书籍阅读：
 
@@ -35,7 +36,7 @@
 - [x] global_asm
 - [x] qemu教程
 - [x] riscv gcc工具链
-- [ ] configure脚本
+- [x] configure脚本
 - [ ] python写脚本
 - [ ] perl写脚本
 - [ ] 脚本语言开发
@@ -51,7 +52,7 @@
 - [x] linux包管理器
 - [x] vim
 - [x] shell
-- [ ] gdb
+- [x] gdb
 - [ ] rustsbi
 - [ ] bootloader
 - [ ] bios
@@ -65,5 +66,6 @@
 - [x] 信号量、条件变量和锁
 - [x] CAS
 - [ ] atomic
-- [ ] linux软件安装目录注意事项
+- [x] linux软件安装目录注意事项
+- [x] 镜像
 
