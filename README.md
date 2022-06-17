@@ -35,6 +35,7 @@
 - [x] global_asm
 - [x] qemu教程
 - [x] riscv gcc工具链
+- [ ] configure脚本
 - [ ] python写脚本
 - [ ] perl写脚本
 - [ ] 脚本语言开发
