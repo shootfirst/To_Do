@@ -53,12 +53,12 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
  
  + linux网络配置与科学上网
    - [x] linux网络命令
-   - [ ] linux iptable配置
-   - [ ] linux vlan
+   - [x] linux iptable配置
+   - [x] linux vlan
    - [x] ssh
    - [x] 上网限制与翻墙原理
    - [ ] shadowsocks源码分析
-   - [ ] 配置网络文件系统
+   - [x] 配置网络文件系统
   
  + 程序编写与调试、项目开发
    - [x] riscv gcc工具链
