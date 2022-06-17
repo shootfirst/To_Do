@@ -75,7 +75,7 @@
    - [ ] atomic
   
  + 系统虚拟化
-   - qemu
+   - [ ] qemu
  
  + rust学习（cargo也可以归为此类，但是没有）
    - [x] global_asm
