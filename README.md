@@ -54,7 +54,7 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
  + linux网络配置与科学上网
    - [x] linux网络命令
    - [ ] linux iptable配置
-   - [ ] linux van
+   - [ ] linux vlan
    - [x] ssh
    - [x] 上网限制与翻墙原理
    - [ ] shadowsocks源码分析
