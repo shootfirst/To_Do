@@ -45,8 +45,6 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
 + 脚本
  - [x] shell脚本
  - [x] python脚本
- - [x] perl脚本
- - [x] ruby脚本
  - [x] 脚本语言开发
  
  + linux软件开发
