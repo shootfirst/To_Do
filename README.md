@@ -43,35 +43,35 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
 
 
 + 脚本
- - [x] shell脚本
- - [x] python脚本
- - [x] 脚本语言开发
+   - [x] shell脚本
+   - [x] python脚本
+   - [x] 脚本语言开发
  
  + linux软件开发
-  - [x] autotools   
-  - [x] linux包管理器 
+   - [x] autotools   
+   - [x] linux包管理器 
  
  + linux网络配置与科学上网
-  - [x] linux网络命令
-  - [ ] linux iptable配置
-  - [ ] linux van
-  - [ ] ssh
-  - [x] 上网限制与翻墙原理
-  - [ ] shadowsocks源码分析
-  - [ ] 配置网络文件系统
+   - [x] linux网络命令
+   - [ ] linux iptable配置
+   - [ ] linux van
+   - [x] ssh
+   - [x] 上网限制与翻墙原理
+   - [ ] shadowsocks源码分析
+   - [ ] 配置网络文件系统
   
  + 程序编写与调试、项目开发
    - [x] riscv gcc工具链
-   - [ ] docker
+   - [x] docker
    - [x] git
-   - [ ] cmake 
+   - [x] cmake 
    - [x] makefile  
-   - [ ] make
+   - [x] make
    - [x] cargo
    - [x] 镜像
    - [x] vim
    - [x] gdb
-   - [ ] vscode配置
+   - [x] vscode配置
    
 
  + 汇编
@@ -85,7 +85,7 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
    - [ ] atomic
   
  + 系统虚拟化
-   - [ ] qemu
+   - [x] qemu
  
  + rust学习（cargo也可以归为此类，但是没有）
    - [x] global_asm
