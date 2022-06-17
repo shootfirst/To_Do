@@ -28,44 +28,91 @@
 - [ ] linux设备驱动程序
 - [ ] 深入理解计算机系统
 
-立即学习：
+小而杂的知识：
 
-- [x] eof是什么
-- [x] 内联汇编
-- [x] x86 riscv mips arm总结
-- [x] global_asm
-- [x] qemu教程
-- [x] riscv gcc工具链
-- [x] configure脚本
-- [ ] python写脚本
-- [ ] perl写脚本
-- [ ] 脚本语言开发
-- [ ] shadowsocks源码分析
-- [ ] linux配置网络文件系统
-- [ ] docker
-- [x] git
-- [ ] cmake 
-- [x] makefile
-- [x] linux网络命令
-- [ ] linux iptable配置
-- [ ] linux van
-- [x] linux包管理器
-- [x] vim
-- [x] shell
-- [x] gdb
-- [ ] rustsbi
-- [ ] bootloader
-- [ ] bios
-- [ ] 基于qemu-riscv从0构建linux
-- [x] cargo
-- [x] 上网限制与翻墙原理
-- [ ] gdb调试动态链接器
-- [x] linuxbash
-- [x] rust宏
-- [x] 无锁队列
-- [x] 信号量、条件变量和锁
-- [x] CAS
-- [ ] atomic
-- [x] linux软件安装目录注意事项
-- [x] 镜像
++ 脚本
+ - [ ] shell脚本
+ - [ ] python脚本
+ - [ ] perl脚本
+ - [ ] ruby脚本
+ - [ ] 脚本语言开发
+ 
+ + linux软件开发
+  - [ ] autotools
+  - [x] linux包管理器 
+ 
+ + linux网络配置与科学上网
+  - [x] linux网络命令
+  - [ ] linux iptable配置
+  - [ ] linux van
+  - [ ] ssh
+  - [x] 上网限制与翻墙原理
+  - [ ] shadowsocks源码分析
+  - [ ] 配置网络文件系统
+  
+ + 程序编写与调试、项目开发
+   - [x] riscv gcc工具链
+   - [ ] docker
+   - [x] git
+   - [ ] cmake 
+   - [x] makefile  
+   - [ ] make
+   - [x] cargo
+   - [x] 镜像
+   - [x] vim
+   - [x] gdb
+   - [ ] vscode配置
+   
+
+ + 汇编
+   - [x] 内联汇编
+   - [x] x86 riscv 总结
+
+ + 线程安全
+   - [x] 无锁队列
+   - [x] 信号量、条件变量和锁
+   - [x] CAS
+   - [ ] atomic
+  
+ + 系统虚拟化
+   - qemu
+ 
+ + rust学习（cargo也可以归为此类，但是没有）
+   - [x] global_asm
+   - [x] rust宏
+ 
+ + 计算机启动
+   - [ ] rustsbi
+   - [ ] bootloader
+   - [ ] bios
+   - [ ] 基于qemu-riscv从0构建linux
+
+ + 杂碎知识点
+   - [x] eof是什么
+ 
+ + linux其余
+   - [x] linuxbash
+   - [x] linux软件安装目录注意事项 
+ 
+ + 待完成小项目
+   - [ ] gdb调试动态链接器
+   - [ ] 动态链接器hook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
