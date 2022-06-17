@@ -33,9 +33,11 @@
 - [x] 内联汇编
 - [x] x86 riscv mips arm总结
 - [x] global_asm
-- [ ] qemu教程
-- [ ] riscv gcc工具链
+- [x] qemu教程
+- [x] riscv gcc工具链
 - [ ] python写脚本
+- [ ] perl写脚本
+- [ ] 脚本语言开发
 - [ ] shadowsocks源码分析
 - [ ] linux配置网络文件系统
 - [ ] docker
