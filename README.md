@@ -103,6 +103,7 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
  + linux其余
    - [x] linuxbash
    - [x] linux软件安装目录注意事项 
+   - [ ] 驱动程序机制
  
  + 待完成小项目
    - [ ] gdb调试动态链接器
