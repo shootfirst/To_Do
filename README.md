@@ -4,10 +4,10 @@
 名校课程实验：
 
 - [x] stanford cs144
-- [ ] stanford cs143
+- [ ] stanford cs143 （完成中）
 - [ ] cmu 15-213
 - [ ] cmu 15-445
-- [ ] mit 6.s081
+- [ ] mit 6.s081 （完成中）
 - [ ] mit 6.824
 - [ ] ucb cs61a
 - [ ] ucb cs61b
@@ -90,9 +90,10 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
  + 系统虚拟化
    - [x] qemu
  
- + rust学习（cargo也可以归为此类，但是没有）
+ + rust（cargo归为此类，同时也归为项目构建）
    - [x] global_asm
    - [x] rust宏
+   - [x] cargo
  
  + 计算机启动
    - [ ] rustsbi
@@ -112,8 +113,19 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
    - [ ] gdb调试动态链接器
    - [ ] 动态链接器hook
    
- + 爬虫
+ + pyhon
    - [ ] 爬虫
+
+ + java
+   - [ ] 字符串
+   
+ + c
+ 
+ + cpp
+   - [ ] 虚函数
+   - [ ] 模板
+
+ 
 
 
 
