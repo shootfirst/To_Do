@@ -111,6 +111,9 @@ https://github.com/chyyuu/ucore_os_docs/blob/master/lab0/lab0_ref_ucore-tools.md
  + 待完成小项目
    - [ ] gdb调试动态链接器
    - [ ] 动态链接器hook
+   
+ + 爬虫
+   - [ ] 爬虫
 
 
 
