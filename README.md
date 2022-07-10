@@ -4,9 +4,9 @@
 名校课程实验：
 
 - [x] stanford cs144
-- [ ] stanford cs143 （完成中）
+- [x] stanford cs143
 - [ ] cmu 15-213
-- [ ] cmu 15-445
+- [ ] cmu 15-445 （完成中）
 - [ ] mit 6.s081 （完成中）
 - [ ] mit 6.824
 - [ ] ucb cs61a
